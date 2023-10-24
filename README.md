@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntonioTri
+- 👋 Hi, I’m Antonio
 - 👀 I’m interested in evrything interesting
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on big team projects
